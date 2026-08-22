@@ -32,6 +32,14 @@ This code will result in the following sequence of output:
 ```
 Hello
 What is your name? #I type Angela
+ 
 Hello
 Angela
 ```
+Hardle hard level Robot Maze Challenge :-
+write a programme for robot to reach the finish flag with using loops and functions.
+
+
+<img width="946" height="821" alt="image" src="https://github.com/user-attachments/assets/30e709b7-380b-4ae1-99fc-efa65f355dc4" />
+
+
